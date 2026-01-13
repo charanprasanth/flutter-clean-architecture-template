@@ -1,0 +1,9 @@
+{
+  "@@locale": "fr",
+  "appName": "Modèle Flutter",
+  "login": "Connexion",
+  "email": "Email",
+  "password": "Mot de passe",
+  "logout": "Se déconnecter",
+  "homeTitle": "Accueil"
+}
