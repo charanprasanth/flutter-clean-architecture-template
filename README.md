@@ -40,7 +40,7 @@ lib/
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/flutter-clean-template.git
+git clone https://github.com/charanprasanth/flutter-clean-architecture-template.git
 cd flutter-clean-template
 flutter pub get
 flutter run
